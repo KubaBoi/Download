@@ -1,0 +1,99 @@
+{
+    "ingredients": [
+        {
+            "name": "kuřecí prso",
+            "amount": 1.0,
+            "amount_str": "1",
+            "unit": null
+        },
+        {
+            "name": "přepuštěného másla",
+            "amount": 1.0,
+            "amount_str": "1",
+            "unit": "lžíce"
+        },
+        {
+            "name": "sůl"
+        },
+        {
+            "name": "mletý pepř"
+        },
+        {
+            "name": "kari"
+        },
+        {
+            "name": "Dále:",
+            "is_title": true
+        },
+        {
+            "name": "bílých fazolí namočených přes noc",
+            "amount": 100.0,
+            "amount_str": "100",
+            "unit": "g"
+        },
+        {
+            "name": "sůl"
+        },
+        {
+            "name": "vejce",
+            "amount": 1.0,
+            "amount_str": "1",
+            "unit": null
+        },
+        {
+            "name": "Salát:",
+            "is_title": true
+        },
+        {
+            "name": "ledového salátu",
+            "amount": 1.0,
+            "amount_str": "1",
+            "unit": "list"
+        },
+        {
+            "name": "kapie",
+            "amount": 0.25,
+            "amount_str": "1/4",
+            "unit": null
+        },
+        {
+            "name": "salátové okurky",
+            "amount": 1.0,
+            "amount_str": "1",
+            "unit": "kousek"
+        },
+        {
+            "name": "cherry rajčátka",
+            "amount": 4.0,
+            "amount_str": "4",
+            "unit": null
+        },
+        {
+            "name": "citronová šťáva"
+        },
+        {
+            "name": "sůl"
+        },
+        {
+            "name": "pepř mletý"
+        },
+        {
+            "name": "xylitol"
+        }
+    ],
+    "name": "Kuřecí prso na kari, fazole, volské oko a zeleninový salát (vhodné pro diabetiky)",
+    "header": {
+        "duration": "55 min",
+        "difficulty": "Středně náročný",
+        "portions": 1,
+        "portion_unit": "porce"
+    },
+    "steps": [
+        "Kuřecí prso osolíme, opepříme a posypeme podle chuti kari kořením. Na přepuštěném másle orestujeme z obou stran.",
+        "Fazole namočené přes noc uvaříme v osolené vodě.",
+        "Na pánvi s nepřilnavým povrchem uděláme volské oko.",
+        "Ledový salát, rajčátka, okurku a kapii nakrájíme nadrobno. Citronovou šťávu smícháme se solí, pepřem a  xylitolem, vmícháme do salátu."
+    ],
+    "source": "https://www.toprecepty.cz/recept/79218-kureci-prso-na-kari-fazole-volske-oko-a-zeleninovy-salat-vhodne-pro-diabetiky/",
+    "id": "ed51efc6-47d4-4165-ab22-531cfab5f8fb"
+}

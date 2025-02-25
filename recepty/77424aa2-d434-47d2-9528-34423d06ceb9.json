@@ -1,0 +1,60 @@
+{
+    "ingredients": [
+        {
+            "name": "máslo",
+            "amount": 200,
+            "unit": "g"
+        },
+        {
+            "name": "krupicový cukr",
+            "amount": 200,
+            "unit": "g"
+        },
+        {
+            "name": "vanilkový cukr",
+            "amount": 1,
+            "unit": "bal"
+        },
+        {
+            "name": "vejce",
+            "amount": 4,
+            "unit": "ks"
+        },
+        {
+            "name": "mouka pšeničná hladká",
+            "amount": 200,
+            "unit": "g"
+        },
+        {
+            "name": "kypřicí prášek do pečiva",
+            "amount": 2,
+            "unit": "ČL"
+        },
+        {
+            "name": "víno",
+            "amount": 75,
+            "unit": "ml"
+        },
+        {
+            "name": "tmavá čokoláda",
+            "amount": 200,
+            "unit": "g"
+        }
+    ],
+    "name": "Bábovka se svařeným vínem",
+    "header": {
+        "duration": "Do hodiny",
+        "difficulty": "Velmi snadné",
+        "portions": 1,
+        "portion_unit": "bábovku"
+    },
+    "steps": [
+        "Máslo s oběma cukry vyšlehejte do pěny, postupně zašlehejte vejce.",
+        "Vmíchejte mouku, kypřicí prášek do pečiva, víno, strouhanou čokoládu.",
+        "Těsto vlijte do vymazané a moukou vysypané bábovkové formy a pečte při 170 °C cca 40 minut. Nechte zchladnout a vyklopte.",
+        "Zbylou čokoládu rozpusťte ve vodní lázni a bábovku jí přelijte. Podávejte.",
+        "NĚCO NAVÍC<br>Nemáte-li po ruce svařené víno, připravte ho – nejrychleji to jde pomocí pyramidek s kořením, které v hrnku horkého vína necháte vylouhovat. Také můžete do těsta přidat trochu skořice a drceného hřebíčku, tedy koření, které do svařeného vína patří."
+    ],
+    "source": "https://www.apetitonline.cz/recept/babovka-se-svarenym-vinem",
+    "id": "77424aa2-d434-47d2-9528-34423d06ceb9"
+}

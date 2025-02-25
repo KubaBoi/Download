@@ -1,0 +1,153 @@
+{
+    "ingredients": [
+        {
+            "name": "Na červená srdíčka",
+            "is_title": true
+        },
+        {
+            "name": "máslo",
+            "amount": 175.0,
+            "unit": "g"
+        },
+        {
+            "name": "hnědý cukr",
+            "amount": 175.0,
+            "unit": "g"
+        },
+        {
+            "name": "vejce",
+            "amount": 3.0,
+            "unit": "ks"
+        },
+        {
+            "name": "mouka pšeničná hladká",
+            "amount": 140.0,
+            "unit": "g"
+        },
+        {
+            "name": "kypřicí prášek do pečiva",
+            "amount": 0.5,
+            "unit": "ČL"
+        },
+        {
+            "name": "kakao",
+            "amount": 3.0,
+            "unit": "PL"
+        },
+        {
+            "name": "mandle",
+            "amount": 85.0,
+            "unit": "g"
+        },
+        {
+            "name": "mléko",
+            "amount": 100.0,
+            "unit": "ml"
+        },
+        {
+            "name": "vanilkový extrakt",
+            "amount": 1.5,
+            "unit": "ČL"
+        },
+        {
+            "name": "potravinářské barvivo",
+            "amount": 0.5,
+            "unit": "ČL"
+        },
+        {
+            "name": "Na světlý korpus",
+            "is_title": true
+        },
+        {
+            "name": "máslo",
+            "amount": 175.0,
+            "unit": "g"
+        },
+        {
+            "name": "hnědý cukr",
+            "amount": 175.0,
+            "unit": "g"
+        },
+        {
+            "name": "vejce",
+            "amount": 3.0,
+            "unit": "ks"
+        },
+        {
+            "name": "mouka pšeničná hladká",
+            "amount": 140.0,
+            "unit": "g"
+        },
+        {
+            "name": "kypřicí prášek do pečiva",
+            "amount": 0.5,
+            "unit": "ČL"
+        },
+        {
+            "name": "mandle",
+            "amount": 85.0,
+            "unit": "g"
+        },
+        {
+            "name": "mléko",
+            "amount": 100.0,
+            "unit": "ml"
+        },
+        {
+            "name": "vanilkový extrakt",
+            "amount": 1.5,
+            "unit": "ČL"
+        },
+        {
+            "name": "Na polevu",
+            "is_title": true
+        },
+        {
+            "name": "smetana ke šlehání",
+            "amount": 100.0,
+            "unit": "ml"
+        },
+        {
+            "name": "tmavá čokoláda",
+            "amount": 200.0,
+            "unit": "g"
+        },
+        {
+            "name": "máslo",
+            "amount": 50.0,
+            "unit": "g"
+        },
+        {
+            "name": "cukrové a čokoládové zdobení",
+            "amount": null,
+            "unit": null
+        }
+    ],
+    "name": "Chlebíček s ukrytým srdcem",
+    "header": {
+        "duration": "Více než dvě hodiny",
+        "difficulty": "Snadné",
+        "portions": 8,
+        "portion_unit": "plátků"
+    },
+    "steps": [
+        "Předehřejte troubu na 160 °C.",
+        "Formu na chlebíček vymažte tukem a vyložte pečicím papírem.",
+        "Červená srdíčka připravíte tak, že vyšleháte 175 g másla a 175 g cukru do světlé nadýchané směsi.",
+        "Přidejte 3 vejce, jedno po druhém, a po každém přidání dobře promíchejte.",
+        "Prosejte 140 g mouky, 1/2 lžičky prášku do pečiva a kakao, a poté jemně vmíchejte do máslové směsi spolu s mletými mandlemi.",
+        "Smíchejte 100 ml mléka, vanilkový extrakt a veškeré potravinářské barvivo a přidejte do těsta, poté míchejte, dokud nebude rovnoměrně obarvené.",
+        "Těsto nalijte do připravené formy a pečte 1 hodinu a 10 minut, nebo dokud zapíchnutou špejli nevyndáte čistou.",
+        "Nechte 10 minut chladnout ve formě, poté přendejte na mřížku.",
+        "Po vychladnutí nakrájejte chlebíček na plátky o tloušťce 4 cm. Pomocí vykrajovátka o průměru 5 cm vykrojte srdíčka (ze zbytku korpusu připravte třeba dezert do skleničky nebo dortová lízátka).",
+        "Tutéž formu opět vymažte tukem a vyložte pečicím papírem.",
+        "Na světlý korpus připravte těsto stejně jako na srdíčka, jen s tím rozdílem, že do něj nepřidáte ani kakao a ani barvivo.",
+        "Nalijte 3/4 směsi do připravené formy a vyskládejte srdíčka těsně vedle sebe tak, abyste spodní část srdíček vtlačili do těsta.",
+        "Lžící naneste zbytek těsta a srdíčka zakryjte.",
+        "Pečte 1 hodinu nebo dokud špejle nevyjde čistá.",
+        "Nechte 10 minut chladnout ve formě, poté přendejte na mřížku a nechte úplně vychladnout.",
+        "Na polevu jemně ohřejte všechny ingredience a míchejte, dokud se nespojí. Nechte ji vychladnout a poté ji rozetřete na chlebíček. Pokud chcete, můžete ozdobit barevným sypáním."
+    ],
+    "source": "https://www.apetitonline.cz/recept/chlebicek-s-ukrytym-srdcem",
+    "id": "f18b0ad9-f952-4c3c-b9e7-dcef11cc69dd"
+}
